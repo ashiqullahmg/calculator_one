@@ -5,6 +5,9 @@ A new Flutter project.
 ## Getting Started
 ## Screenshots
 <img src="preview.png" width="300" height="533">
+
+## Future Work
+It needs to be refactor and optimize. This was just an assignment
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
