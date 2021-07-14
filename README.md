@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-## Screenshots
+## Screenshot
 <img src="preview.png" width="300" height="533">
 
 ## Future Work
